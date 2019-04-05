@@ -16,4 +16,6 @@ $ curl -H 'Accept-Encoding: gzip' localhost:9999 | gunzip | gunzip
 # works fine
 ```
 
+A working implementation is served on `localhost:19999`.
+
 [1]: https://github.com/gorilla/handlers/commit/e1b2144f2167de0e1042d1d35e5cba5119d4fb5d
